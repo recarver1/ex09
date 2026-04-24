@@ -10,10 +10,11 @@ layout: default
 
 <img src="static/imgs/whisker_plot.png" alt="first visualization "  width="500"/>
 
+<img src="static/imgs/viz.png" alt="first visualization "  width="500"/>
 
-## This is a small header
 
-![alt text](image.png)
+
+## Conclusion
 
 
 This is basic paragraph text.
