@@ -8,6 +8,11 @@ layout: default
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
+## Summary of Analysis
+To analyze whether prior programming experience affects how difficult students find COMP110, we selected the columns "prior_exp" and "difficulty" from the dataset. The "difficulty" column was currently stored as strings, so we converted it to integers in order to perform numerical analysis and create visualizations. We then created a helper function to filter the dataset by a specific level of prior programming experience so that we could analyze subsets of the data more easily.
+
+## Visualizations
+
 
 <img src="static/imgs/whisker_plot.png" alt="first visualization "  width="500"/>
 
