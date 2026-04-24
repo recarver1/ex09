@@ -22,7 +22,7 @@ title: Creating a website for COMP 110!
 email: recarver@unc.edu
 description: >- # this means to ignore newlines until "baseurl:"
   This project analyzes COMP110 survey data to explore how prior programming experience impacts students’ perception of course difficulty. The goal is to identify ways to improve the course for future students.
-baseurl: "/ex09-project" # the subpath of your site, e.g. /blog
+baseurl: "/ex09" # the subpath of your site, e.g. /blog
 url: "recarver1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
