@@ -10,12 +10,15 @@ layout: default
 
 
 <img src="static/imgs/whisker_plot.png" alt="first visualization "  width="500"/>
+
 **This box plot shows how difficulty scores vary for each level of prior experience. From left to right on the x axis the categories are, None to less than one month!, 2-6 months, 7-12 months, 1-2 years, Over 2 years**
 
 <img src="static/imgs/viz.png" alt="second visualization "  width="500"/>
+
 **This bar plot shows the relationship between prior programming experience and how difficult students find the course. From left to right on the x axis the categories are, None to less than one month!, 2-6 months, 7-12 months, 1-2 years, Over 2 years**
 
 <img src="static/imgs/histogram.png" alt="third visualization "  width="500"/>
+
 **This histogram shows how difficulty ratings are distributed across all students.**
 
 
